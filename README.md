@@ -21,10 +21,5 @@
         <p><a class="link-text" href="http://porvatushi.zdes.yxodi.tilda.ws/gr"><b>Сайт</b></a>  Сайт по кафе</p>
         <p>Бонус: <a class="link-text" href="http://porvatushi.zdes.yxodi.tilda.ws/d"><b>Сайт</b></a> По Гта 5</p>
     </main>
-    <footer>
-      <a class="social" href=""><img src="/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
-      <a class="social" href=""><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
-      <a class="social" href=""><img src="/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
-    </footer>
   </body>
 </html>
